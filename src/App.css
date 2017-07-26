@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background-color: white;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 20px;
+}
+
+.App-header {
+  background-color: #C9C9C9;
+  height: 60px;
+  padding: 20px;
+  color: 2C2C2C;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-todo-list {
+  font-size: medium;
+  color: blue;
+}
